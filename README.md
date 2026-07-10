@@ -1,26 +1,63 @@
-Hi 👋 I'm Sirivella Vignesh
+# Hi 👋, I'm Sirivella Vignesh
 
-🎓 B.Tech CSE Student at RGUKT
-💻 Python Developer | Web Developer
+## 🚀 About Me
+🎓 B.Tech Computer Science and Engineering Student at RGUKT RK Valley
 
-🚀 Tech Stack
-• Python
-• HTML
-• CSS
-• JavaScript
-• MySQL
-• Git & GitHub
+💻 Passionate about Python, Web Development, and Backend Development
 
-📚 Currently Learning
-Backend Development
-Data Structures & Algorithms
+🌱 Currently learning Backend Development, Data Structures & Algorithms
 
-🌟 Featured Projects
-🍔 FoodZ – Food Ordering Website
+🎯 Interested in Software Development and IT Internships
 
-📫 Connect with me
-LinkedIn:
-https://linkedin.com/in/vignesh-sirivella-70b551297
+---
 
-GitHub:
+## 💻 Tech Stack
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Projects
+
+### 🍔 FoodZ - Food Ordering Web Application
+
+A simple food ordering web application developed for learning web development concepts.
+
+🔗 **Live Demo:**
+https://vigneshsirivella.github.io/Foodz/
+
+🔗 **Repository:**
+https://github.com/VigneshSirivella/FoodZ
+
+---
+
+## 📚 Currently Learning
+
+- Backend Development
+- Python
+- SQL
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+📧 Email:
+vigni9866@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/vignesh-sirivella-70b551297/
+
+🐙 GitHub:
 https://github.com/VigneshSirivella
+
+---
+
+⭐ Thank you for visiting my profile!
