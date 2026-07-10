@@ -1,63 +1,85 @@
-# Hi 👋, I'm Sirivella Vignesh
-
-## 🚀 About Me
-🎓 B.Tech Computer Science and Engineering Student at RGUKT RK Valley
-
-💻 Passionate about Python, Web Development, and Backend Development
-
-🌱 Currently learning Backend Development, Data Structures & Algorithms
-
-🎯 Interested in Software Development and IT Internships
+<h1 align="center">Hi 👋, I'm Sirivella Vignesh</h1>
+<h3 align="center">B.Tech CSE Student | Python Developer | Web Developer | Open to Software Development Internships</h3>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-- Python
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- Git
-- GitHub
-- VS Code
+🎓 Pursuing **B.Tech in Computer Science and Engineering** at **RGUKT RK Valley**
+
+💻 Passionate about **Python, Web Development, and Backend Development**
+
+🌱 Currently learning:
+- Data Structures & Algorithms
+- Backend Development
+- SQL & Database Management
+
+🎯 Career Goal:
+Become a Software Development Engineer and build scalable real-world applications.
 
 ---
 
-## 🚀 Projects
+## 🚀 Tech Stack
 
-### 🍔 FoodZ - Food Ordering Web Application
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,github,vscode" />
+</p>
 
-A simple food ordering web application developed for learning web development concepts.
+---
 
-🔗 **Live Demo:**
+## 📌 Featured Project
+
+### 🍔 FoodZ – Food Ordering Web Application
+
+A responsive food ordering web application developed using **HTML, CSS, JavaScript, Python, and MySQL**. This project demonstrates menu browsing, cart management, and order placement functionality.
+
+🔗 **Live Demo:**  
 https://vigneshsirivella.github.io/Foodz/
 
-🔗 **Repository:**
+🔗 **GitHub Repository:**  
 https://github.com/VigneshSirivella/FoodZ
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Working On
 
-- Backend Development
-- Python
-- SQL
+- DecodeLabs Python Internship Projects
+- Python Projects
 - Data Structures & Algorithms
+- Backend Development
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VigneshSirivella&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshSirivella&layout=compact&theme=github_dark)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VigneshSirivella&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email:
-vigni9866@gmail.com
+📧 Email: **vigni9866@gmail.com**
 
-💼 LinkedIn:
+💼 LinkedIn:  
 https://www.linkedin.com/in/vignesh-sirivella-70b551297/
 
-🐙 GitHub:
+🐙 GitHub:  
 https://github.com/VigneshSirivella
 
 ---
 
-⭐ Thank you for visiting my profile!
+### 💡 Quote
+
+> "Consistency beats perfection. Every project is a step toward becoming a better developer."
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
