@@ -52,11 +52,11 @@ https://github.com/VigneshSirivella/FoodZ
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VigneshSirivella&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VigneshSirivella&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshSirivella&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VigneshSirivella&layout=compact&theme=tokyonight" />
 </p>
 ---
 
