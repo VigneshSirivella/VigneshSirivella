@@ -50,12 +50,15 @@ https://github.com/VigneshSirivella/FoodZ
 
 ---
 
-## 📈 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VigneshSirivella&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VigneshSirivella&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshSirivella&layout=compact&theme=github_dark)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshSirivella&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
