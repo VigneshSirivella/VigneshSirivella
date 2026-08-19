@@ -4,6 +4,10 @@
 B.Tech CSE Student | Full-Stack Developer | Python Developer | AI & Web Development Enthusiast
 </h3>
 
+<p align="center">
+Building real-world web applications with React, Django, PostgreSQL and AI 🚀
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -15,6 +19,7 @@ B.Tech CSE Student | Full-Stack Developer | Python Developer | AI & Web Developm
 🚀 I enjoy building and deploying real-world applications using modern frontend, backend, database, and AI technologies.
 
 🌱 Currently improving my skills in:
+
 - Data Structures & Algorithms
 - React & TypeScript
 - Django & REST APIs
@@ -22,68 +27,85 @@ B.Tech CSE Student | Full-Stack Developer | Python Developer | AI & Web Developm
 - Artificial Intelligence Integration
 
 🎯 **Career Goal:**  
-Become a **Software Development Engineer** and build scalable, intelligent, real-world applications.
+Become a **Software Development Engineer** and build scalable, useful, and intelligent real-world applications.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c" />
 </p>
 
-### 🌐 Frontend
+### 🎨 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,vite" />
 </p>
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=django,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
-
-**Also working with:** Django REST Framework, REST APIs, Google Gemini API, Render, pgAdmin
 
 ---
 
 # 🌟 Featured Project
 
-## 🎯 AI Interview Simulator
+## 🤖 AI Interview Simulator
 
-An **AI-powered full-stack interview preparation platform** designed to help candidates prepare for technical and HR interviews through realistic mock interviews, coding practice, resume analysis, AI-generated feedback, and performance tracking.
+An **AI-powered full-stack interview preparation platform** designed to help users practice technical and interview questions, receive intelligent feedback, track their performance, and improve their interview skills.
 
 ### ✨ Key Features
 
-- 🤖 AI-powered mock interviews
-- 💬 Technical and HR interview preparation
-- 🧠 AI-based answer evaluation and feedback
-- 💻 Coding & Technical Practice Lab
-- 📄 ATS Resume Analyzer
+- 🔐 User Registration & Login
+- 📧 Email OTP Verification
+- 🎤 AI Interview Practice
+- 💻 Technical & Coding Practice Questions
+- 🧠 AI-generated Evaluation & Feedback
 - 📊 Performance Dashboard
-- 📈 Skill Insights & Performance History
-- 📑 Detailed Interview Reports
-- 📥 Downloadable PDF Reports
-- 🏆 Candidate Leaderboard
-- 🔐 User Authentication & OTP Verification
-- 🗄️ PostgreSQL persistent database
+- 📈 Practice Attempt Tracking
+- 📝 Strengths & Improvement Analysis
+- 📄 Downloadable Candidate Interview Reports
+- 🗄️ PostgreSQL Database Integration
+- ☁️ Full-stack Cloud Deployment
 
-### 🛠️ Built With
+### 🛠️ Technologies Used
 
-**Frontend:** React, TypeScript, Vite, Tailwind CSS  
-**Backend:** Python, Django, Django REST Framework  
-**Database:** PostgreSQL  
-**AI:** Google Gemini API  
-**Deployment:** Vercel + Render
+**Frontend**
+- React
+- TypeScript
+- Vite
+
+**Backend**
+- Python
+- Django
+- Django REST Framework
+
+**Database**
+- PostgreSQL
+
+**Deployment**
+- Vercel – Frontend
+- Render – Backend & PostgreSQL
+
+**AI Integration**
+- Google Gemini API
 
 ### 🌐 Live Application
 
@@ -99,38 +121,73 @@ https://github.com/VigneshSirivella/ai-interview-simulator
 
 ## 🍔 FoodZ – Food Ordering Web Application
 
-A responsive food ordering web application developed using **HTML, CSS, JavaScript, Python, and MySQL**.
+A responsive food ordering web application that allows users to browse food items, manage their cart, and place orders.
 
-The application demonstrates menu browsing, cart management, and order placement functionality.
+### 🛠️ Technologies
 
-🔗 **Live Demo:**  
+- HTML
+- CSS
+- JavaScript
+- Python
+- MySQL
+
+### 🌐 Live Demo
+
 https://vigneshsirivella.github.io/Foodz/
 
-🔗 **GitHub Repository:**  
+### 💻 GitHub Repository
+
 https://github.com/VigneshSirivella/FoodZ
+
+---
+
+## 🏏 CricMotion – AI Gesture Controlled Cricket Game
+
+An AI-based cricket game designed to allow users to interact with cricket gameplay using body and gesture detection through a webcam.
+
+### 🎯 Project Concept
+
+CricMotion aims to combine **Artificial Intelligence, Computer Vision, and Web Development** to create an interactive cricket experience.
+
+### 🛠️ Technologies
+
+- React
+- TypeScript
+- Python
+- Flask
+- Computer Vision
+- AI Gesture Detection
+- MySQL
 
 ---
 
 ## 📚 Currently Working On
 
 - 🧠 Data Structures & Algorithms
-- ⚛️ React & TypeScript
-- 🐍 Python & Django
+- ⚛️ Advanced React & TypeScript
+- 🐍 Python Development
 - 🌐 Full-Stack Web Development
-- 🔗 REST API Development
-- 🗄️ PostgreSQL & Database Management
-- 🤖 AI Integration in Web Applications
+- ⚙️ Django REST APIs
+- 🗄️ PostgreSQL
+- 🤖 AI-powered Applications
+- 🚀 Building and deploying real-world projects
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=VigneshSirivella&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VigneshSirivella&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Vignesh's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VigneshSirivella&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshSirivella&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Vignesh's Most Used Languages"
+  />
 </p>
 
 ---
@@ -138,29 +195,20 @@ https://github.com/VigneshSirivella/FoodZ
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VigneshSirivella&theme=github-dark-blue" />
+  <img
+    src="https://streak-stats.demolab.com?user=VigneshSirivella&theme=tokyonight&hide_border=true"
+    alt="Vignesh's GitHub Streak"
+  />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Development Focus
 
-📧 **Email:** vigni9866@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/vignesh-sirivella-70b551297/
-
-🐙 **GitHub:**  
-https://github.com/VigneshSirivella
-
----
-
-### 💡 Quote
-
-> "Consistency beats perfection. Every project is a step toward becoming a better developer."
-
----
-
-<p align="center">
-⭐ Thanks for visiting my GitHub profile!
-</p>
+```text
+Frontend Development     ████████████████░░░░
+Backend Development      ███████████████░░░░░
+Python Development       █████████████████░░░
+Database Management      ███████████████░░░░░
+AI Integration           █████████████░░░░░░░
+Data Structures          ████████████░░░░░░░░
