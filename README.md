@@ -172,20 +172,21 @@ CricMotion aims to combine **Artificial Intelligence, Computer Vision, and Web D
 - 🤖 AI-powered Applications
 - 🚀 Building and deploying real-world projects
 
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=VigneshSirivella&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=VigneshSirivella&show_icons=true&theme=tokyonight"
     alt="Vignesh's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshSirivella&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=VigneshSirivella&layout=compact&theme=tokyonight"
     alt="Vignesh's Most Used Languages"
   />
 </p>
@@ -196,12 +197,13 @@ CricMotion aims to combine **Artificial Intelligence, Computer Vision, and Web D
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=VigneshSirivella&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=VigneshSirivella&theme=github-dark-blue"
     alt="Vignesh's GitHub Streak"
   />
 </p>
 
 ---
+
 
 ## 🎯 Development Focus
 
