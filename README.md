@@ -193,13 +193,10 @@ CricMotion aims to combine **Artificial Intelligence, Computer Vision, and Web D
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=VigneshSirivella&theme=github-dark-blue"
-    alt="Vignesh's GitHub Streak"
-  />
+  Consistently learning, building projects, and contributing code 🚀
 </p>
 
 ---
